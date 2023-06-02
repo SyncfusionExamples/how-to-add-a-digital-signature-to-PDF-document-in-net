@@ -11,7 +11,7 @@ A quick start .NET console project that shows how to add a digital signature to 
 *  Visual Studio 2019/ Visual Studio 2022
 
 ## Code snippet for adding a digital signature
-we will create a new .NET console application, add the Syncfusion PDF library package, and write the code
+We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp
     PdfDocument document = new PdfDocument();
