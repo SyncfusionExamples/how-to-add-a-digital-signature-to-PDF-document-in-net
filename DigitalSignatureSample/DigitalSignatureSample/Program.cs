@@ -6,7 +6,6 @@ using Syncfusion.Drawing;
 namespace DigitalSignatureSample {
     internal class Program {
         static void Main(string[] args) {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBPh8sVXJ0S0J+XE9Hd1RDX3xKf0x/TGpQb19xflBPallYVBYiSV9jS3xSdEVkWHhfcnVTRGNbWQ==");
 
             PdfDocument document = new PdfDocument();
             PdfPageBase page=document.Pages.Add();
